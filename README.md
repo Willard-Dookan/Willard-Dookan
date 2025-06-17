@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧑‍💻Undergraduate at Florida International University studying Computer Science. <br>🧠 Passionate about coding, AI, problem solving, and learning new things<br>💭 Currently learning Python and DSA<br>⚡ Hobbies include: videogames, baking, reading, and enjoying nature<br>🤓 Below is a link to my LinkedIn. I would be delighted to connect with you!</p>
+<p align="left">🧑‍💻 Undergraduate at Florida International University studying Computer Science. <br>🧠 Passionate about coding, AI, problem solving, and learning new things<br>💭 Currently learning Python and DSA<br>⚡ Hobbies include: videogames, baking, reading, and enjoying nature<br>🤓 Below is a link to my LinkedIn. I would be delighted to connect with you!</p>
 
 ###
 
