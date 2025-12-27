@@ -38,6 +38,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="52" height="40" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="52" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="52" height="60" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="52" height="60" alt="mongo db logo"  />
+  <img width="12" />
+  <img src="https://cdn.brandfetch.io/id8LeMTX5r/w/253/h/253/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="52" height="60" alt="render logo"  />
 </div>
 
 ###
